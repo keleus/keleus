@@ -2,8 +2,6 @@
 
 **Java 后端开发 | 会一点点前端**
 
-## ⚡ 技术栈
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Dubbo](https://img.shields.io/badge/Apache%20Dubbo-5A29E4?style=for-the-badge&logo=apache&logoColor=white)
@@ -15,9 +13,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-
-## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=keleus&show_icons=true&theme=radical" height="150" />
